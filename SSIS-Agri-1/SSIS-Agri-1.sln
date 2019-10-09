@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS-Agri-1", "SSIS-Agri-1\SSIS-Agri-1.dtproj", "{E58840DC-DE2C-49E3-B69B-874B2ADF3958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E58840DC-DE2C-49E3-B69B-874B2ADF3958}.Development|Default.ActiveCfg = Development
+		{E58840DC-DE2C-49E3-B69B-874B2ADF3958}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1FEE505-383C-45E8-9D58-485E808A5C19}
+	EndGlobalSection
+EndGlobal
